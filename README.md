@@ -14,6 +14,17 @@
    <p>
 <a href="https://edward1233.github.io/practica5.html">Practica #5 MENU RESPONSIVO</a>
   </p>
+   <p>
+<a href="https://edward1233.github.io/practica6.html">Practica #6 ICONOS</a>
+  </p>
+  <p>
+<a href="https://edward1233.github.io/practica7.html">Practica #7 CARRUSEL</a>
+  </p>
+  <p>
+<a href="https://edward1233.github.io/practica8.html">Practica #8 MODALES</a>
+  </p>
+  
+  
   
   
 
