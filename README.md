@@ -12,7 +12,7 @@
 <a href="https://edward1233.github.io/practica4.html">Practica #4 IMAGENES</a>
   </p>
    <p>
-<a href="https://edward1233.github.io/practica5.html">Practica #5 MENU RESPONSIVO</a>
+<a href="https://edward1233.github.io/practica5.html">Practica #5 MENU RESPONSIVOS </a>
   </p>
    <p>
 <a href="https://edward1233.github.io/practica6.html">Practica #6 ICONOS</a>
