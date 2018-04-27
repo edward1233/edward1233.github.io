@@ -21,7 +21,7 @@
 <a href="https://edward1233.github.io/practica7.html">Practica #7 CARRUSEL</a>
   </p>
   <p>
-<a href="https://edward1233.github.io/practica8.html">Practica #8 MODALES</a>
+<a href="https://edward1233.github.io/Practica8.html">Practica #8 MODALES</a>
   </p>
   
   
